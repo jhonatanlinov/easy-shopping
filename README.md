@@ -8,3 +8,8 @@
 <h2>Projeto aplicado responsividade</h2>
 
 <img src="https://github.com/jhonatanlinov/easy-shopping/blob/main/img/desktop.png?raw=true">
+<img src="https://github.com/jhonatanlinov/easy-shopping/blob/main/img/127.0.0.1_5500_index.html(iPhone%20XR).png?raw=true">
+
+.img {
+width:20px;
+{
